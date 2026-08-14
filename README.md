@@ -4,7 +4,7 @@
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.
 
-The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,677 | 🐛 31 | 📅 2026-07-20 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,677 | 🐛 31 | 📅 2026-07-20 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,677 | 🐛 31 | 📅 2026-07-20 will be reported also here.
+The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,677 | 🐛 31 | 📅 2026-08-14 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,677 | 🐛 31 | 📅 2026-08-14 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,677 | 🐛 31 | 📅 2026-08-14 will be reported also here.
 
 The list is public and contributions are welcome.
 
@@ -360,7 +360,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 ### Vocabulary validation & conversion tools
 
 * [qSKOS](https://github.com/cmader/qSKOS) ⭐ 75 | 🐛 18 | 🌐 Java | 📅 2024-06-01 Find quality issues in SKOS vocabularies.
-* [Skosify](https://github.com/NatLibFi/Skosify) ⭐ 63 | 🐛 16 | 🌐 Python | 📅 2021-08-31 Validate, convert and improve SKOS vocabularies
+* [Skosify](https://github.com/NatLibFi/Skosify) ⭐ 64 | 🐛 16 | 🌐 Python | 📅 2021-08-31 Validate, convert and improve SKOS vocabularies
 * [SKOS Play](http://labs.sparna.fr/skos-play/) Render and visualise thesaurus, taxonomies or controlled vocabularies. Furthermore, convert Excel spreadsheets into SKOS files.
 
 ## Exchange and discussions
@@ -532,7 +532,7 @@ OS - OpenSource\
 
 ### Visualisation
 
-* [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) ⭐ 145 | 🐛 15 | 🌐 Python | 📅 2022-09-20 Python tool for visualising RDF. Convert rdf to .dot and use Graphviz for constructing a visual representation.
+* [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) ⭐ 144 | 🐛 15 | 🌐 Python | 📅 2022-09-20 Python tool for visualising RDF. Convert rdf to .dot and use Graphviz for constructing a visual representation.
 
 ### Images
 
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

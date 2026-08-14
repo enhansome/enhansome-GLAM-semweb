@@ -116,7 +116,7 @@
             "last_commit": "2021-08-31T10:50:22Z",
             "owner": "NatLibFi",
             "repo": "Skosify",
-            "stars": 63
+            "stars": 64
           }
         }
       ],
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T13:52:38.168Z",
+    "last_updated": "2026-08-14T13:48:25.943Z",
     "original_repository": "ncarboni/awesome-GLAM-semweb",
     "original_repository_sha": "0e9da2e047d6dc7cda7e7d18f30e191eb41a4cf9",
     "enhanced_repository": "enhansome/enhansome-GLAM-semweb",
