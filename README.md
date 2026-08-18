@@ -360,7 +360,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 ### Vocabulary validation & conversion tools
 
 * [qSKOS](https://github.com/cmader/qSKOS) ⭐ 75 | 🐛 18 | 🌐 Java | 📅 2024-06-01 Find quality issues in SKOS vocabularies.
-* [Skosify](https://github.com/NatLibFi/Skosify) ⭐ 64 | 🐛 16 | 🌐 Python | 📅 2021-08-31 Validate, convert and improve SKOS vocabularies
+* [Skosify](https://github.com/NatLibFi/Skosify) ⭐ 65 | 🐛 16 | 🌐 Python | 📅 2021-08-31 Validate, convert and improve SKOS vocabularies
 * [SKOS Play](http://labs.sparna.fr/skos-play/) Render and visualise thesaurus, taxonomies or controlled vocabularies. Furthermore, convert Excel spreadsheets into SKOS files.
 
 ## Exchange and discussions
@@ -495,7 +495,7 @@ OS - OpenSource\
 ## IIIF
 
 * [International Image Interoperability Framework](https://iiif.io/)
-* [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif) ⭐ 560 | 🐛 13 | 📅 2026-08-03
+* [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif) ⭐ 560 | 🐛 14 | 📅 2026-08-03
 
 ## Misc
 
@@ -508,7 +508,7 @@ OS - OpenSource\
 #### Documentation
 
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 394 | 🐛 154 | 🌐 JavaScript | 📅 2026-08-08 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 396 | 🐛 154 | 🌐 JavaScript | 📅 2026-08-08 Ontology documentation (include LODE).
 
 #### Management
 
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
