@@ -1,47 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Semantic Web Standards & Recommendation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Serialization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Ontologies"
-    },
-    {
-      "description": "Mapping tools for transforming your data (CSV, XML) into RDF",
-      "items": [],
-      "title": "Mapping tools"
-    },
-    {
-      "description": "Karma is an information integration tool for aggregating, harmonising and transforming diverse data sources (CSV, XML, JSON, KML, Web APIs). The process is driven by an ontology and results in a transformation of the original data in RDF. A graphical user interface help the user map the data and, moreover, it is build to recognize the mapping of data to ontology classes and then uses the ontology to propose a model that ties together these classes. Karma does not only help the user transform the data but it can be used to normalise them too.",
-      "items": [],
-      "title": "Karma"
-    },
-    {
-      "description": "Ontop is an application developed by, among others, the University of Bolzano for creating a virtual RDF Graph on top of your current data source. Mappings can be easily created using Protege and results are queryable using SPARQL 1.1. Moreover, it supports reasoning (OWL 2 QL).",
-      "items": [],
-      "title": "Ontop"
-    },
-    {
-      "description": "($) Ontopic Studio is a mapping design application targeted at authoring large mappings without writing code. It is fully compliant with the R2RML standard.",
-      "items": [],
-      "title": "Ontopic Studio"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Vocabularies and KOS"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -50,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 877602,
             "language": "Ruby",
             "last_commit": "2026-07-27T07:29:50Z",
             "owner": "innoq",
@@ -64,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7823906,
             "language": "Java",
             "last_commit": "2023-12-16T17:32:03Z",
             "owner": "culturegouv",
@@ -78,282 +40,312 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267047936,
             "language": "Java",
-            "last_commit": "2026-08-12T22:01:34Z",
+            "last_commit": "2026-08-19T00:05:48Z",
             "owner": "MOM-CNRS",
             "repo": "Opentheso",
             "stars": 33
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "qSKOS",
+              "description": "Find quality issues in SKOS vocabularies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1507101,
+                "language": "Java",
+                "last_commit": "2024-06-01T20:11:37Z",
+                "owner": "cmader",
+                "repo": "qSKOS",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Skosify",
+              "description": "Validate, convert and improve SKOS vocabularies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34518149,
+                "language": "Python",
+                "last_commit": "2021-08-31T10:50:22Z",
+                "owner": "NatLibFi",
+                "repo": "Skosify",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vocabulary validation & conversion tools"
         }
       ],
       "title": "Vocabulary / KOS Management"
     },
     {
-      "description": "",
+      "description": "$ - ProprietaryOS - OpenSourcef - Free Version",
       "items": [
         {
-          "node_type": "item",
-          "title": "qSKOS",
-          "description": "Find quality issues in SKOS vocabularies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-06-01T20:11:37Z",
-            "owner": "cmader",
-            "repo": "qSKOS",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Skosify",
-          "description": "Validate, convert and improve SKOS vocabularies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-31T10:50:22Z",
-            "owner": "NatLibFi",
-            "repo": "Skosify",
-            "stars": 65
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gold",
+              "description": "Linked Data server for Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16302690,
+                "language": "Go",
+                "last_commit": "2020-07-21T08:25:51Z",
+                "owner": "linkeddata",
+                "repo": "gold",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trellis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77492072,
+                "language": "Java",
+                "last_commit": "2025-05-19T07:14:02Z",
+                "owner": "trellis-ldp",
+                "repo": "trellis",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "warp",
+              "description": "Warp an LDP file manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21471360,
+                "language": "CSS",
+                "last_commit": "2018-10-25T12:34:41Z",
+                "owner": "linkeddata",
+                "repo": "warp",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Marmotta",
+              "description": "Apache linked data platform implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 16132708,
+                "language": "Java",
+                "last_commit": "2020-03-01T05:39:10Z",
+                "owner": "apache",
+                "repo": "marmotta",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elda",
+              "description": "Linked data platform from Epimorphics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15106392,
+                "language": "Java",
+                "last_commit": "2026-08-04T09:50:38Z",
+                "owner": "epimorphics",
+                "repo": "elda",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LDP4j",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19062268,
+                "language": "Java",
+                "last_commit": "2020-12-01T06:46:34Z",
+                "owner": "ldp4j",
+                "repo": "ldp4j",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Linked Data Platform (LDP)"
         }
       ],
-      "title": "Vocabulary validation & conversion tools"
+      "title": "Knowledge Graph Management"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Exchange and discussions"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "gold",
-          "description": "Linked Data server for Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-07-21T08:25:51Z",
-            "owner": "linkeddata",
-            "repo": "gold",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trellis",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Turtle and SPARQL syntax highlighter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18017925,
+                "language": null,
+                "last_commit": "2017-07-04T21:56:11Z",
+                "owner": "abcoates",
+                "repo": "sublime-text-turtle-sparql",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SPARQL 1.1, Turtle, TriG, N-Triples, N-Quads and Notation3 syntax highlighter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151673478,
+                "language": "JavaScript",
+                "last_commit": "2022-12-08T09:07:39Z",
+                "owner": "blake-regalia",
+                "repo": "linked-data.syntaxes",
+                "stars": 31
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-05-19T07:14:02Z",
-            "owner": "trellis-ldp",
-            "repo": "trellis",
-            "stars": 110
-          }
+          "node_type": "group",
+          "title": "Sublime Text"
         },
         {
-          "node_type": "item",
-          "title": "warp",
-          "description": "Warp an LDP file manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2018-10-25T12:34:41Z",
-            "owner": "linkeddata",
-            "repo": "warp",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Marmotta",
-          "description": "Apache linked data platform implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2020-03-01T05:39:10Z",
-            "owner": "apache",
-            "repo": "marmotta",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elda",
-          "description": "Linked data platform from Epimorphics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-04T09:50:38Z",
-            "owner": "epimorphics",
-            "repo": "elda",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LDP4j",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "semweb.vim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1732934,
+                "language": "VimL",
+                "last_commit": "2015-04-05T22:40:26Z",
+                "owner": "seebi",
+                "repo": "semweb.vim",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sparql.vim",
+              "description": "SPARQL syntax highlighting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1002174,
+                "language": "VimL",
+                "last_commit": "2010-10-18T23:46:25Z",
+                "owner": "vim-scripts",
+                "repo": "sparql.vim",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vim-sparql",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3659951,
+                "language": "VimL",
+                "last_commit": "2012-03-08T13:07:40Z",
+                "owner": "Omer",
+                "repo": "vim-sparql",
+                "stars": 4
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-12-01T06:46:34Z",
-            "owner": "ldp4j",
-            "repo": "ldp4j",
-            "stars": 46
-          }
+          "node_type": "group",
+          "title": "VIM"
         }
       ],
-      "title": "Linked Data Platform (LDP)"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Editors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Turtle and SPARQL syntax highlighter",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VIAF",
+              "description": "& ORCID — OpenRefine reconciliation services for VIAF, ORCID, and Open Library available in Github. To make it work, it is necessary the launch a jar file for its use. After that the endpoint is available at: http://localhost:8080/reconcile/viaf.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71844060,
+                "language": "Java",
+                "last_commit": "2025-06-18T02:32:15Z",
+                "owner": "codeforkjeff",
+                "repo": "conciliator",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Geonames",
+              "description": "The OpenRefine reconciliation services is available in GitHub. To make it work, it is necessary to launch a python script. After that the endpoint is available at: http://0.0.0.0:5000/reconcile.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34627678,
+                "language": "Python",
+                "last_commit": "2022-02-05T16:52:05Z",
+                "owner": "cmharlow",
+                "repo": "geonames-reconcile",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Perio.do",
+              "description": "The OpenRefine reconciliation services is available in GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 66383873,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T20:33:12Z",
+                "owner": "periodo",
+                "repo": "periodo-reconciler",
+                "stars": 4
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-07-04T21:56:11Z",
-            "owner": "abcoates",
-            "repo": "sublime-text-turtle-sparql",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SPARQL 1.1, Turtle, TriG, N-Triples, N-Quads and Notation3 syntax highlighter",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-08T09:07:39Z",
-            "owner": "blake-regalia",
-            "repo": "linked-data.syntaxes",
-            "stars": 31
-          }
+          "node_type": "group",
+          "title": "OpenRefine Reconciliation services"
         }
       ],
-      "title": "Sublime Text"
+      "title": "Data Management"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "semweb.vim",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VimL",
-            "last_commit": "2015-04-05T22:40:26Z",
-            "owner": "seebi",
-            "repo": "semweb.vim",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sparql.vim",
-          "description": "SPARQL syntax highlighting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VimL",
-            "last_commit": "2010-10-18T23:46:25Z",
-            "owner": "vim-scripts",
-            "repo": "sparql.vim",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vim-sparql",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VimL",
-            "last_commit": "2012-03-08T13:07:40Z",
-            "owner": "Omer",
-            "repo": "vim-sparql",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "VIM"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "VIAF",
-          "description": "& ORCID — OpenRefine reconciliation services for VIAF, ORCID, and Open Library available in Github. To make it work, it is necessary the launch a jar file for its use. After that the endpoint is available at: http://localhost:8080/reconcile/viaf.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-06-18T02:32:15Z",
-            "owner": "codeforkjeff",
-            "repo": "conciliator",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Geonames",
-          "description": "The OpenRefine reconciliation services is available in GitHub. To make it work, it is necessary to launch a python script. After that the endpoint is available at: http://0.0.0.0:5000/reconcile.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-05T16:52:05Z",
-            "owner": "cmharlow",
-            "repo": "geonames-reconcile",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Perio.do",
-          "description": "The OpenRefine reconciliation services is available in GitHub.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T20:33:12Z",
-            "owner": "periodo",
-            "repo": "periodo-reconciler",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "OpenRefine Reconciliation services"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -362,6 +354,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147505799,
             "language": "Python",
             "last_commit": "2026-07-28T01:35:01Z",
             "owner": "RDFLib",
@@ -376,6 +369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55072395,
             "language": "Scala",
             "last_commit": "2025-04-12T06:44:06Z",
             "owner": "weso",
@@ -387,67 +381,68 @@
       "title": "Data Validation"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Ontology"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "grlc",
-          "description": "Web APIs from SPARQL queries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T11:42:37Z",
-            "owner": "CLARIAH",
-            "repo": "grlc",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "marc2rdf",
-          "description": "Takes as input INTERMARC-XML and UNIMARC-XML files and generates as output RDF.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-12-17T12:43:14Z",
-            "owner": "DOREMUS-ANR",
-            "repo": "marc2rdf",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ntcat",
-          "description": "Command line tool for concatenating NTriples documents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2015-06-09T12:12:08Z",
-            "owner": "cgutteridge",
-            "repo": "ntcat",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grlc",
+              "description": "Web APIs from SPARQL queries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46131212,
+                "language": "Python",
+                "last_commit": "2026-08-01T11:42:37Z",
+                "owner": "CLARIAH",
+                "repo": "grlc",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "marc2rdf",
+              "description": "Takes as input INTERMARC-XML and UNIMARC-XML files and generates as output RDF.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34245566,
+                "language": "Java",
+                "last_commit": "2018-12-17T12:43:14Z",
+                "owner": "DOREMUS-ANR",
+                "repo": "marc2rdf",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ntcat",
+              "description": "Command line tool for concatenating NTriples documents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9502995,
+                "language": "Perl",
+                "last_commit": "2015-06-09T12:12:08Z",
+                "owner": "cgutteridge",
+                "repo": "ntcat",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Conversion"
         }
       ],
-      "title": "Conversion"
+      "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:12:16.697Z",
+    "last_updated": "2026-08-19T12:10:15.282Z",
     "original_repository": "ncarboni/awesome-GLAM-semweb",
+    "original_repository_id": 164869283,
     "original_repository_sha": "0e9da2e047d6dc7cda7e7d18f30e191eb41a4cf9",
     "enhanced_repository": "enhansome/enhansome-GLAM-semweb",
     "enhanced_repository_description": null,

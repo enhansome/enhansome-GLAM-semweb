@@ -352,7 +352,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 * [iqvoc](https://github.com/innoq/iqvoc) ⭐ 123 | 🐛 56 | 🌐 Ruby | 📅 2026-07-27 SKOS(-XL) Vocabulary Management System for the Semantic Web.
 * [Ginco](https://github.com/culturecommunication/ginco) ⚠️ Archived Collaborative management and alignment of vocabularies.
-* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 33 | 🐛 12 | 🌐 Java | 📅 2026-08-12 Multilingual collaborative management of KOS
+* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 33 | 🐛 12 | 🌐 Java | 📅 2026-08-19 Multilingual collaborative management of KOS
 * [Skosmos](http://skosmos.org) Access SKOS vocabularies with SPARQL or API
 * [VocBench](http://vocbench.uniroma2.it) Web-based, multilingual, collaborative platform for managing OWL, SKOS(/XL) and generic RDF datasets.
 * [TemaTres](https://www.vocabularyserver.com) Manage, share, publish, and re-use SKOS vocabularies.
@@ -495,7 +495,7 @@ OS - OpenSource\
 ## IIIF
 
 * [International Image Interoperability Framework](https://iiif.io/)
-* [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif) ⭐ 560 | 🐛 14 | 📅 2026-08-03
+* [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif) ⭐ 560 | 🐛 15 | 📅 2026-08-03
 
 ## Misc
 
@@ -523,7 +523,7 @@ OS - OpenSource\
 
 ### Conversion
 
-* [grlc](https://github.com/CLARIAH/grlc) ⭐ 151 | 🐛 32 | 🌐 Python | 📅 2026-08-01 - Web APIs from SPARQL queries.
+* [grlc](https://github.com/CLARIAH/grlc) ⭐ 151 | 🐛 33 | 🌐 Python | 📅 2026-08-01 - Web APIs from SPARQL queries.
 * [marc2rdf](https://github.com/DOREMUS-ANR/marc2rdf) ⭐ 6 | 🐛 7 | 🌐 Java | 📅 2018-12-17 Takes as input INTERMARC-XML and UNIMARC-XML files and generates as output RDF.
 * [ntcat](https://github.com/cgutteridge/ntcat) ⭐ 0 | 🐛 0 | 🌐 Perl | 📅 2015-06-09 Command line tool for concatenating NTriples documents.
 * [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
