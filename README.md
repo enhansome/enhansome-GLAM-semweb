@@ -289,8 +289,8 @@ Mapping tools for transforming your data (CSV, XML) into RDF
 
 X3ML is a transformation engine developed by FORTH. It is perfected to work with CIDOC-CRM, however it does work greatly with other ontologies as well. It is available as web application (3M) and a stand alone app (X3ML). In both cases the input file has to be in XML (for transforming a CSV file to XML see [Mr Data Converter](https://shancarter.github.io/mr-data-converter/)).
 
-* [3M](http://139.91.183.3/3M/)
 * [X3ML](https://github.com/isl/x3ml) ⭐ 24 | 🐛 25 | 🌐 Java | 📅 2025-05-26
+* [3M](http://139.91.183.3/3M/)
 
 In order to transform the data it is necessary to create a X3ML declaration and a URI Mapping. Examples of both, together with the necessary commands are available at this addresses:
 
@@ -507,8 +507,8 @@ OS - OpenSource\
 
 #### Documentation
 
-* [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 * [Widoco](https://github.com/dgarijo/Widoco) ⭐ 396 | 🐛 154 | 🌐 JavaScript | 📅 2026-08-08 Ontology documentation (include LODE).
+* [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
 
@@ -517,8 +517,8 @@ OS - OpenSource\
 
 ### Alignment
 
-* [SILK](http://silkframework.org) Linked Data Integration Framework.
 * [OnAGUI](https://github.com/lmazuel/onagui) ⭐ 12 | 🐛 13 | 🌐 Java | 📅 2023-10-06 Ontology alignment GUI.
+* [SILK](http://silkframework.org) Linked Data Integration Framework.
 * [Alignment API](http://alignapi.gforge.inria.fr) Tool for Expressing, generating and sharing ontology alignments
 
 ### Conversion

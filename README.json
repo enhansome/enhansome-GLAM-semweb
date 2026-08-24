@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "description": "Mapping tools for transforming your data (CSV, XML) into RDF",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "X3ML",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24993403,
+                "language": "Java",
+                "last_commit": "2025-05-26T07:53:56Z",
+                "owner": "isl",
+                "repo": "x3ml",
+                "stars": 24
+              }
+            }
+          ],
+          "description": "X3ML is a transformation engine developed by FORTH. It is perfected to work with CIDOC-CRM, however it does work greatly with other ontologies as well. It is available as web application (3M) and a stand alone app (X3ML). In both cases the input file has to be in XML (for transforming a CSV file to XML see Mr Data Converter).\nIn order to transform the data it is necessary to create a X3ML declaration and a URI Mapping. Examples of both, together with the necessary commands are available at this addresses:",
+          "node_type": "group",
+          "title": "X3ML"
+        }
+      ],
+      "title": "Mapping tools"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -198,6 +226,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sparql/turtle extension",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8637439,
+                "language": "Ruby",
+                "last_commit": "2018-02-12T22:55:55Z",
+                "owner": "peta",
+                "repo": "turtle.tmbundle",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TextMate"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Turtle and SPARQL syntax highlighter",
               "description": null,
               "children": [],
@@ -282,6 +332,50 @@
           "description": null,
           "node_type": "group",
           "title": "VIM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sparql-mode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2071648,
+                "language": "Emacs Lisp",
+                "last_commit": "2025-05-08T10:44:19Z",
+                "owner": "ljos",
+                "repo": "sparql-mode",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emacs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sparql4idea",
+              "description": "SPARQL language plugin for IntelliJ IDEA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1760172,
+                "language": "Java",
+                "last_commit": "2020-06-19T07:11:25Z",
+                "owner": "mattnathan",
+                "repo": "sparql4idea",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IntelliJ"
         }
       ],
       "title": "Editors"
@@ -387,6 +481,79 @@
           "children": [
             {
               "node_type": "item",
+              "title": "prefix.cc",
+              "description": "Source code to the prefix.cc website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1712407,
+                "language": "PHP",
+                "last_commit": "2022-03-10T10:14:45Z",
+                "owner": "cygri",
+                "repo": "prefix.cc",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prefix"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Widoco",
+                  "description": "Ontology documentation (include LODE).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11427075,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-08T18:46:25Z",
+                    "owner": "dgarijo",
+                    "repo": "Widoco",
+                    "stars": 396
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Documentation"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ontology"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OnAGUI",
+              "description": "Ontology alignment GUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76414948,
+                "language": "Java",
+                "last_commit": "2023-10-06T07:51:24Z",
+                "owner": "lmazuel",
+                "repo": "onagui",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alignment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "grlc",
               "description": "Web APIs from SPARQL queries.",
               "children": [],
@@ -434,13 +601,35 @@
           "description": null,
           "node_type": "group",
           "title": "Conversion"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ontology Visualisation",
+              "description": "Python tool for visualising RDF. Convert rdf to .dot and use Graphviz for constructing a visual representation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144198995,
+                "language": "Python",
+                "last_commit": "2022-09-20T13:39:05Z",
+                "owner": "usc-isi-i2",
+                "repo": "ontology-visualization",
+                "stars": 144
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visualisation"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:17:35.019Z",
+    "last_updated": "2026-08-24T14:38:01.345Z",
     "original_repository": "ncarboni/awesome-GLAM-semweb",
     "original_repository_id": 164869283,
     "original_repository_sha": "0e9da2e047d6dc7cda7e7d18f30e191eb41a4cf9",
