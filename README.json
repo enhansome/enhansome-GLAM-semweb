@@ -70,7 +70,7 @@
             "archived": false,
             "id": 267047936,
             "language": "Java",
-            "last_commit": "2026-08-24T09:32:44Z",
+            "last_commit": "2026-08-26T13:35:02Z",
             "owner": "MOM-CNRS",
             "repo": "Opentheso",
             "stars": 33
@@ -629,9 +629,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:26:14.120Z",
-    "original_repository": "ncarboni/awesome-GLAM-semweb",
-    "original_repository_id": 164869283,
+    "last_updated": "2026-08-27T11:40:44.990Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 164869283,
+      "language": null,
+      "last_commit": "2023-01-26T17:26:00Z",
+      "owner": "ncarboni",
+      "repo": "awesome-GLAM-semweb",
+      "stars": 118
+    },
     "original_repository_sha": "0e9da2e047d6dc7cda7e7d18f30e191eb41a4cf9",
     "enhanced_repository": "enhansome/enhansome-GLAM-semweb",
     "enhanced_repository_description": null,
