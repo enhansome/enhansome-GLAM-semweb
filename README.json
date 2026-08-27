@@ -190,7 +190,7 @@
                 "archived": false,
                 "id": 15106392,
                 "language": "Java",
-                "last_commit": "2026-08-04T09:50:38Z",
+                "last_commit": "2026-08-27T13:12:51Z",
                 "owner": "epimorphics",
                 "repo": "elda",
                 "stars": 57
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:44.990Z",
+    "last_updated": "2026-08-27T22:24:42.815Z",
     "original_repository_info": {
       "archived": false,
       "id": 164869283,
