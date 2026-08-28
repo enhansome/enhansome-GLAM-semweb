@@ -18,7 +18,8 @@
                 "owner": "isl",
                 "repo": "x3ml",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": "X3ML is a transformation engine developed by FORTH. It is perfected to work with CIDOC-CRM, however it does work greatly with other ontologies as well. It is available as web application (3M) and a stand alone app (X3ML). In both cases the input file has to be in XML (for transforming a CSV file to XML see Mr Data Converter).\nIn order to transform the data it is necessary to create a X3ML declaration and a URI Mapping. Examples of both, together with the necessary commands are available at this addresses:",
@@ -44,7 +45,8 @@
             "owner": "innoq",
             "repo": "iqvoc",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T22:27:05.604Z"
         },
         {
           "node_type": "item",
@@ -59,7 +61,8 @@
             "owner": "culturegouv",
             "repo": "ginco",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T22:27:05.604Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "MOM-CNRS",
             "repo": "Opentheso",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T22:27:05.604Z"
         },
         {
           "children": [
@@ -91,7 +95,8 @@
                 "owner": "cmader",
                 "repo": "qSKOS",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "NatLibFi",
                 "repo": "Skosify",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -134,7 +140,8 @@
                 "owner": "linkeddata",
                 "repo": "gold",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "trellis-ldp",
                 "repo": "trellis",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -164,7 +172,8 @@
                 "owner": "linkeddata",
                 "repo": "warp",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -179,7 +188,8 @@
                 "owner": "apache",
                 "repo": "marmotta",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -194,7 +204,8 @@
                 "owner": "epimorphics",
                 "repo": "elda",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -209,7 +220,8 @@
                 "owner": "ldp4j",
                 "repo": "ldp4j",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -237,7 +249,8 @@
                 "owner": "peta",
                 "repo": "turtle.tmbundle",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -259,7 +272,8 @@
                 "owner": "abcoates",
                 "repo": "sublime-text-turtle-sparql",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -274,7 +288,8 @@
                 "owner": "blake-regalia",
                 "repo": "linked-data.syntaxes",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -296,7 +311,8 @@
                 "owner": "seebi",
                 "repo": "semweb.vim",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -311,7 +327,8 @@
                 "owner": "vim-scripts",
                 "repo": "sparql.vim",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -326,7 +343,8 @@
                 "owner": "Omer",
                 "repo": "vim-sparql",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -348,7 +366,8 @@
                 "owner": "ljos",
                 "repo": "sparql-mode",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -370,7 +389,8 @@
                 "owner": "mattnathan",
                 "repo": "sparql4idea",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -398,7 +418,8 @@
                 "owner": "codeforkjeff",
                 "repo": "conciliator",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -413,7 +434,8 @@
                 "owner": "cmharlow",
                 "repo": "geonames-reconcile",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -428,7 +450,8 @@
                 "owner": "periodo",
                 "repo": "periodo-reconciler",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -454,7 +477,8 @@
             "owner": "RDFLib",
             "repo": "pySHACL",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T22:27:05.604Z"
         },
         {
           "node_type": "item",
@@ -469,7 +493,8 @@
             "owner": "weso",
             "repo": "shaclex",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T22:27:05.604Z"
         }
       ],
       "title": "Data Validation"
@@ -492,7 +517,8 @@
                 "owner": "cygri",
                 "repo": "prefix.cc",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -516,7 +542,8 @@
                     "owner": "dgarijo",
                     "repo": "Widoco",
                     "stars": 396
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:27:05.604Z"
                 }
               ],
               "description": null,
@@ -543,7 +570,8 @@
                 "owner": "lmazuel",
                 "repo": "onagui",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -565,7 +593,8 @@
                 "owner": "CLARIAH",
                 "repo": "grlc",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -580,7 +609,8 @@
                 "owner": "DOREMUS-ANR",
                 "repo": "marc2rdf",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             },
             {
               "node_type": "item",
@@ -595,7 +625,8 @@
                 "owner": "cgutteridge",
                 "repo": "ntcat",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -617,7 +648,8 @@
                 "owner": "usc-isi-i2",
                 "repo": "ontology-visualization",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T22:27:05.604Z"
             }
           ],
           "description": null,
@@ -629,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:24:42.815Z",
+    "last_updated": "2026-08-28T22:27:05.604Z",
     "original_repository_info": {
       "archived": false,
       "id": 164869283,
