@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "X3ML Engine supports the data transformation which is part of the data provisioning and aggregation process.",
+                "homepage": null,
                 "id": 24993403,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-26T07:53:56Z",
+                "open_issues": 25,
                 "owner": "isl",
                 "repo": "x3ml",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -39,12 +44,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iQvoc - A SKOS(-XL) Vocabulary Management System for the Semantic Web",
+            "homepage": "http://iqvoc.net/",
             "id": 877602,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-27T07:29:50Z",
+            "open_issues": 56,
             "owner": "innoq",
             "repo": "iqvoc",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:05.604Z"
         },
@@ -55,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gestion Informatisée de Nomenclatures Collaboratives et Ouvertes",
+            "homepage": "http://culturecommunication.github.io/ginco/",
             "id": 7823906,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-16T17:32:03Z",
+            "open_issues": 20,
             "owner": "culturegouv",
             "repo": "ginco",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:05.604Z"
         },
@@ -71,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nouvelle version du logiciel Opentheso avec un nouveau design",
+            "homepage": null,
             "id": 267047936,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T13:35:02Z",
+            "open_issues": 12,
             "owner": "MOM-CNRS",
             "repo": "Opentheso",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:05.604Z"
         },
@@ -89,12 +109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vocabulary quality assessment tools",
+                "homepage": null,
                 "id": 1507101,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-01T20:11:37Z",
+                "open_issues": 18,
                 "owner": "cmader",
                 "repo": "qSKOS",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -105,12 +130,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate, convert and improve SKOS vocabularies",
+                "homepage": "http://skosify.readthedocs.io/",
                 "id": 34518149,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-31T10:50:22Z",
+                "open_issues": 16,
                 "owner": "NatLibFi",
                 "repo": "Skosify",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "code4lib",
+                  "converter",
+                  "skos",
+                  "thesaurus",
+                  "validate"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -134,12 +170,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linked Data server for Go",
+                "homepage": null,
                 "id": 16302690,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2020-07-21T08:25:51Z",
+                "open_issues": 33,
                 "owner": "linkeddata",
                 "repo": "gold",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "solid",
+                  "solid-server"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -150,12 +194,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trellis is a platform for building scalable Linked Data applications",
+                "homepage": "https://www.trellisldp.org",
                 "id": 77492072,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-19T07:14:02Z",
+                "open_issues": 11,
                 "owner": "trellis-ldp",
                 "repo": "trellis",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "ldp",
+                  "linked-data",
+                  "microprofile",
+                  "rdf",
+                  "rest-api",
+                  "trellisldp"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -166,12 +222,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Warp - an LDP file manager",
+                "homepage": "https://linkeddata.github.io/warp/",
                 "id": 21471360,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-10-25T12:34:41Z",
+                "open_issues": 18,
                 "owner": "linkeddata",
                 "repo": "warp",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "solid",
+                  "solid-app"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -182,12 +246,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mirror of Apache Marmotta",
+                "homepage": null,
                 "id": 16132708,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-01T05:39:10Z",
+                "open_issues": 8,
                 "owner": "apache",
                 "repo": "marmotta",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "java",
+                  "marmotta"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -198,12 +270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Epimorphics implementation of the Linked Data API",
+                "homepage": null,
                 "id": 15106392,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T13:12:51Z",
+                "open_issues": 25,
                 "owner": "epimorphics",
                 "repo": "elda",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -214,12 +291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java-based framework for the development of read-write Linked Data applications based on the W3C Linked Data Platform 1.0 (LDP) specification.",
+                "homepage": "http://www.ldp4j.org",
                 "id": 19062268,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-01T06:46:34Z",
+                "open_issues": 5,
                 "owner": "ldp4j",
                 "repo": "ldp4j",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -243,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Totally awesome Textmate bundle for Turtle – the terse RDF Triple Language.",
+                "homepage": null,
                 "id": 8637439,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-02-12T22:55:55Z",
+                "open_issues": 6,
                 "owner": "peta",
                 "repo": "turtle.tmbundle",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -266,12 +353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sublime Text syntax and completions files for Turtle (and, later, SPARQL).  Developed for Sublime Text 3 beta.",
+                "homepage": null,
                 "id": 18017925,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2017-07-04T21:56:11Z",
+                "open_issues": 1,
                 "owner": "abcoates",
                 "repo": "sublime-text-turtle-sparql",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -282,12 +374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete high-res syntaxes for SPARQL 1.1, Turtle, TriG, N-Triples, N-Quads, Notation3 and ShExC",
+                "homepage": null,
                 "id": 151673478,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2022-12-08T09:07:39Z",
+                "open_issues": 11,
                 "owner": "blake-regalia",
                 "repo": "linked-data.syntaxes",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -305,12 +402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semantic Web vim bundle",
+                "homepage": null,
                 "id": 1732934,
                 "language": "VimL",
+                "license": null,
                 "last_commit": "2015-04-05T22:40:26Z",
+                "open_issues": 1,
                 "owner": "seebi",
                 "repo": "semweb.vim",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -321,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syntax file for SPARQL query language for RDF",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=1755",
                 "id": 1002174,
                 "language": "VimL",
+                "license": null,
                 "last_commit": "2010-10-18T23:46:25Z",
+                "open_issues": 1,
                 "owner": "vim-scripts",
                 "repo": "sparql.vim",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -337,12 +444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim syntax file for SPARQL",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=1755",
                 "id": 3659951,
                 "language": "VimL",
+                "license": null,
                 "last_commit": "2012-03-08T13:07:40Z",
+                "open_issues": 0,
                 "owner": "Omer",
                 "repo": "vim-sparql",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -360,12 +472,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A SPARQL mode for emacs",
+                "homepage": null,
                 "id": 2071648,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-08T10:44:19Z",
+                "open_issues": 11,
                 "owner": "ljos",
                 "repo": "sparql-mode",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "emacs-lisp",
+                  "emacs-mode",
+                  "semantic-web",
+                  "sparql"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -383,12 +505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPARQL language plugin for IntelliJ IDEA",
+                "homepage": null,
                 "id": 1760172,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-06-19T07:11:25Z",
+                "open_issues": 13,
                 "owner": "mattnathan",
                 "repo": "sparql4idea",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -412,12 +539,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenRefine reconciliation services for VIAF, ORCID, and Open Library + framework for creating more.",
+                "homepage": null,
                 "id": 71844060,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-18T02:32:15Z",
+                "open_issues": 9,
                 "owner": "codeforkjeff",
                 "repo": "conciliator",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "entity-resolution",
+                  "openlibrary",
+                  "openrefine",
+                  "orcid",
+                  "reconciliation-service",
+                  "solr",
+                  "viaf"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -428,12 +568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoNames Reconciliation Service for OpenRefine/LODRefine/Google Refine",
+                "homepage": null,
                 "id": 34627678,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-05T16:52:05Z",
+                "open_issues": 10,
                 "owner": "cmharlow",
                 "repo": "geonames-reconcile",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -444,12 +589,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Open Refine reconciliation service for PeriodO data",
+                "homepage": null,
                 "id": 66383873,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-03T20:33:12Z",
+                "open_issues": 4,
                 "owner": "periodo",
                 "repo": "periodo-reconciler",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "linked-data",
+                  "periodization",
+                  "reconciliation"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -471,12 +625,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python validator for SHACL",
+            "homepage": null,
             "id": 147505799,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T01:35:01Z",
+            "open_issues": 45,
             "owner": "RDFLib",
             "repo": "pySHACL",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "constraints",
+              "owl",
+              "rdf",
+              "shacl",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T22:27:05.604Z"
         },
@@ -487,12 +652,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SHACL/ShEx implementation ",
+            "homepage": "http://weso.github.io/shaclex",
             "id": 55072395,
             "language": "Scala",
+            "license": "MIT",
             "last_commit": "2025-04-12T06:44:06Z",
+            "open_issues": 262,
             "owner": "weso",
             "repo": "shaclex",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "earl-report",
+              "rdf-library",
+              "scala",
+              "schema",
+              "shacl",
+              "shex"
+            ]
           },
           "first_seen": "2026-08-28T22:27:05.604Z"
         }
@@ -511,12 +688,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code to the prefix.cc website",
+                "homepage": "http://prefix.cc/",
                 "id": 1712407,
                 "language": "PHP",
+                "license": "Unlicense",
                 "last_commit": "2022-03-10T10:14:45Z",
+                "open_issues": 20,
                 "owner": "cygri",
                 "repo": "prefix.cc",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -536,12 +718,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.",
+                    "homepage": null,
                     "id": 11427075,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-08T18:46:25Z",
+                    "open_issues": 154,
                     "owner": "dgarijo",
                     "repo": "Widoco",
-                    "stars": 396
+                    "stars": 396,
+                    "topics": [
+                      "documentation",
+                      "metadata",
+                      "ontology",
+                      "ontology-diagram",
+                      "ontology-evaluation",
+                      "wizard"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:27:05.604Z"
                 }
@@ -564,12 +758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OnAGUI - Ontology Alignment GUI - Software to help automatic or manual realisation of ontologic alignment",
+                "homepage": null,
                 "id": 76414948,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-10-06T07:51:24Z",
+                "open_issues": 13,
                 "owner": "lmazuel",
                 "repo": "onagui",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -587,12 +786,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "grlc builds Web APIs using shared SPARQL queries",
+                "homepage": "http://grlc.io",
                 "id": 46131212,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-01T11:42:37Z",
+                "open_issues": 33,
                 "owner": "CLARIAH",
                 "repo": "grlc",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "api",
+                  "linked-data",
+                  "linked-data-api",
+                  "open-api",
+                  "semantic-web",
+                  "sparql",
+                  "swagger-ui"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -603,12 +815,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converter from UNIMARC/INTERMARC to RDF using the DOREMUS model",
+                "homepage": null,
                 "id": 34245566,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-17T12:43:14Z",
+                "open_issues": 7,
                 "owner": "DOREMUS-ANR",
                 "repo": "marc2rdf",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "conversion",
+                  "doremus-model",
+                  "intermarc-format",
+                  "intermarc-xml",
+                  "java",
+                  "rdf",
+                  "semantic-web",
+                  "unimarc-xml"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             },
@@ -619,12 +845,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line tool for concatenating NTriples documents",
+                "homepage": null,
                 "id": 9502995,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2015-06-09T12:12:08Z",
+                "open_issues": 0,
                 "owner": "cgutteridge",
                 "repo": "ntcat",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -642,12 +873,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple ontology and RDF visualization tool.",
+                "homepage": null,
                 "id": 144198995,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-20T13:39:05Z",
+                "open_issues": 15,
                 "owner": "usc-isi-i2",
                 "repo": "ontology-visualization",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "ontology",
+                  "ontology-visualization",
+                  "rdf",
+                  "semantic",
+                  "triples",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
             }
@@ -661,15 +904,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:27:05.604Z",
+    "last_updated": "2026-08-29T05:01:30.764Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
+      "homepage": null,
       "id": 164869283,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-01-26T17:26:00Z",
+      "open_issues": 2,
       "owner": "ncarboni",
       "repo": "awesome-GLAM-semweb",
-      "stars": 118
+      "stars": 118,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cidoc-crm",
+        "glam",
+        "ontologies",
+        "rdf",
+        "semantic-web",
+        "vocabulary"
+      ]
     },
     "original_repository_sha": "0e9da2e047d6dc7cda7e7d18f30e191eb41a4cf9",
     "enhanced_repository": "enhansome/enhansome-GLAM-semweb",
