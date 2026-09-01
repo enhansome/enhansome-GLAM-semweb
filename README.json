@@ -91,7 +91,7 @@
             "id": 267047936,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T18:38:43Z",
+            "last_commit": "2026-09-01T11:34:01Z",
             "open_issues": 12,
             "owner": "MOM-CNRS",
             "repo": "Opentheso",
@@ -694,10 +694,10 @@
                 "language": "PHP",
                 "license": "Unlicense",
                 "last_commit": "2022-03-10T10:14:45Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "cygri",
                 "repo": "prefix.cc",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
@@ -723,11 +723,11 @@
                     "id": 11427075,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T17:33:34Z",
-                    "open_issues": 155,
+                    "last_commit": "2026-09-01T08:51:42Z",
+                    "open_issues": 154,
                     "owner": "dgarijo",
                     "repo": "Widoco",
-                    "stars": 396,
+                    "stars": 397,
                     "topics": [
                       "documentation",
                       "metadata",
@@ -791,8 +791,8 @@
                 "id": 46131212,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-01T11:42:37Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-01T11:41:51Z",
+                "open_issues": 35,
                 "owner": "CLARIAH",
                 "repo": "grlc",
                 "stars": 151,
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:09:27.438Z",
+    "last_updated": "2026-09-01T16:44:21.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
