@@ -417,7 +417,7 @@ OS - OpenSource\
 * [trellis](https://github.com/trellis-ldp/trellis) ⭐ 110 | 🐛 11 | 🌐 Java | 📅 2025-05-19
 * [warp](https://github.com/linkeddata/warp) ⭐ 59 | 🐛 18 | 🌐 CSS | 📅 2018-10-25 - Warp an LDP file manager.
 * [Marmotta](https://github.com/apache/marmotta) ⚠️ Archived - Apache linked data platform implementation.
-* [Elda](https://github.com/epimorphics/elda) ⭐ 57 | 🐛 25 | 🌐 Java | 📅 2026-08-27 - Linked data platform from Epimorphics.
+* [Elda](https://github.com/epimorphics/elda) ⭐ 57 | 🐛 22 | 🌐 Java | 📅 2026-09-02 - Linked data platform from Epimorphics.
 * [LDP4j](https://github.com/ldp4j/ldp4j) ⭐ 46 | 🐛 5 | 🌐 Java | 📅 2020-12-01
 * [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
 * [CarbonLDP](https://github.com/CarbonLDP)
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

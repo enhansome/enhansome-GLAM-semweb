@@ -275,8 +275,8 @@
                 "id": 15106392,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-27T13:12:51Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-02T14:50:09Z",
+                "open_issues": 22,
                 "owner": "epimorphics",
                 "repo": "elda",
                 "stars": 57,
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:44:21.064Z",
+    "last_updated": "2026-09-02T16:40:14.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
