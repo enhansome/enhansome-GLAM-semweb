@@ -350,7 +350,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 ## Vocabulary / KOS Management
 
-* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 123 | 🐛 56 | 🌐 Ruby | 📅 2026-07-27 SKOS(-XL) Vocabulary Management System for the Semantic Web.
+* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 123 | 🐛 56 | 🌐 Ruby | 📅 2026-09-04 SKOS(-XL) Vocabulary Management System for the Semantic Web.
 * [Ginco](https://github.com/culturecommunication/ginco) ⚠️ Archived Collaborative management and alignment of vocabularies.
 * [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 33 | 🐛 12 | 🌐 Java | 📅 2026-09-03 Multilingual collaborative management of KOS
 * [Skosmos](http://skosmos.org) Access SKOS vocabularies with SPARQL or API
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
