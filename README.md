@@ -4,7 +4,7 @@
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.
 
-The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,682 | 🐛 32 | 📅 2026-08-14 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,682 | 🐛 32 | 📅 2026-08-14 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,682 | 🐛 32 | 📅 2026-08-14 will be reported also here.
+The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,683 | 🐛 31 | 📅 2026-09-04 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,683 | 🐛 31 | 📅 2026-09-04 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,683 | 🐛 31 | 📅 2026-09-04 will be reported also here.
 
 The list is public and contributions are welcome.
 
@@ -485,7 +485,7 @@ OS - OpenSource\
 
 ## Data Validation
 
-* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 341 | 🐛 45 | 🌐 Python | 📅 2026-07-28 - a Python validator for SHACL.
+* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 342 | 🐛 45 | 🌐 Python | 📅 2026-07-28 - a Python validator for SHACL.
 * [SHaclEX](https://github.com/weso/shaclex) ⭐ 92 | 🐛 262 | 🌐 Scala | 📅 2025-04-12 - Scala implementation of SHEX and SHACL. Possible to use a demo version from a web interface.
 * [RDFUnit](http://rdfunit.aksw.org/) - RDF testing suite. Include but not limited to SHACL.
 * [dotNetRDF SHACL](http://langsamu.net/shacl) - SHACL procecssor that can check conformance and validate data graphs against shapes graphs.
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
