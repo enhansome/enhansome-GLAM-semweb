@@ -4,7 +4,7 @@
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.
 
-The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,684 | 🐛 31 | 📅 2026-09-04 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,684 | 🐛 31 | 📅 2026-09-04 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,684 | 🐛 31 | 📅 2026-09-04 will be reported also here.
+The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,684 | 🐛 29 | 📅 2026-09-08 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,684 | 🐛 29 | 📅 2026-09-08 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,684 | 🐛 29 | 📅 2026-09-08 will be reported also here.
 
 The list is public and contributions are welcome.
 
@@ -417,7 +417,7 @@ OS - OpenSource\
 * [trellis](https://github.com/trellis-ldp/trellis) ⭐ 110 | 🐛 11 | 🌐 Java | 📅 2025-05-19
 * [warp](https://github.com/linkeddata/warp) ⭐ 59 | 🐛 18 | 🌐 CSS | 📅 2018-10-25 - Warp an LDP file manager.
 * [Marmotta](https://github.com/apache/marmotta) ⚠️ Archived - Apache linked data platform implementation.
-* [Elda](https://github.com/epimorphics/elda) ⭐ 57 | 🐛 22 | 🌐 Java | 📅 2026-09-07 - Linked data platform from Epimorphics.
+* [Elda](https://github.com/epimorphics/elda) ⭐ 57 | 🐛 22 | 🌐 Java | 📅 2026-09-08 - Linked data platform from Epimorphics.
 * [LDP4j](https://github.com/ldp4j/ldp4j) ⭐ 46 | 🐛 5 | 🌐 Java | 📅 2020-12-01
 * [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
 * [CarbonLDP](https://github.com/CarbonLDP)
@@ -485,7 +485,7 @@ OS - OpenSource\
 
 ## Data Validation
 
-* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 343 | 🐛 45 | 🌐 Python | 📅 2026-07-28 - a Python validator for SHACL.
+* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 344 | 🐛 45 | 🌐 Python | 📅 2026-07-28 - a Python validator for SHACL.
 * [SHaclEX](https://github.com/weso/shaclex) ⭐ 92 | 🐛 262 | 🌐 Scala | 📅 2025-04-12 - Scala implementation of SHEX and SHACL. Possible to use a demo version from a web interface.
 * [RDFUnit](http://rdfunit.aksw.org/) - RDF testing suite. Include but not limited to SHACL.
 * [dotNetRDF SHACL](http://langsamu.net/shacl) - SHACL procecssor that can check conformance and validate data graphs against shapes graphs.
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
