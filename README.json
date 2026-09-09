@@ -49,7 +49,7 @@
             "id": 877602,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T07:01:41Z",
+            "last_commit": "2026-09-09T16:04:43Z",
             "open_issues": 56,
             "owner": "innoq",
             "repo": "iqvoc",
@@ -91,7 +91,7 @@
             "id": 267047936,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T11:47:42Z",
+            "last_commit": "2026-09-09T09:57:39Z",
             "open_issues": 12,
             "owner": "MOM-CNRS",
             "repo": "Opentheso",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:43:03.469Z",
+    "last_updated": "2026-09-09T16:44:25.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
