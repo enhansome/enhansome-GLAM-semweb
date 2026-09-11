@@ -658,7 +658,7 @@
             "language": "Scala",
             "license": "MIT",
             "last_commit": "2025-04-12T06:44:06Z",
-            "open_issues": 262,
+            "open_issues": 261,
             "owner": "weso",
             "repo": "shaclex",
             "stars": 92,
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:30:29.103Z",
+    "last_updated": "2026-09-11T16:35:08.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
