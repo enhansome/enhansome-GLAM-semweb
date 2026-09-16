@@ -49,7 +49,7 @@
             "id": 877602,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T09:09:46Z",
+            "last_commit": "2026-09-16T13:46:04Z",
             "open_issues": 56,
             "owner": "innoq",
             "repo": "iqvoc",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:06:03.908Z",
+    "last_updated": "2026-09-16T17:06:22.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
