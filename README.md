@@ -350,7 +350,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 ## Vocabulary / KOS Management
 
-* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 123 | 🐛 56 | 🌐 Ruby | 📅 2026-09-28 SKOS(-XL) Vocabulary Management System for the Semantic Web.
+* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 123 | 🐛 56 | 🌐 Ruby | 📅 2026-09-29 SKOS(-XL) Vocabulary Management System for the Semantic Web.
 * [Ginco](https://github.com/culturecommunication/ginco) ⚠️ Archived Collaborative management and alignment of vocabularies.
 * [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 34 | 🐛 12 | 🌐 Java | 📅 2026-09-28 Multilingual collaborative management of KOS
 * [Skosmos](http://skosmos.org) Access SKOS vocabularies with SPARQL or API
@@ -417,7 +417,7 @@ OS - OpenSource\
 * [trellis](https://github.com/trellis-ldp/trellis) ⭐ 111 | 🐛 11 | 🌐 Java | 📅 2025-05-19
 * [warp](https://github.com/linkeddata/warp) ⭐ 59 | 🐛 18 | 🌐 CSS | 📅 2018-10-25 - Warp an LDP file manager.
 * [Marmotta](https://github.com/apache/marmotta) ⚠️ Archived - Apache linked data platform implementation.
-* [Elda](https://github.com/epimorphics/elda) ⭐ 57 | 🐛 22 | 🌐 Java | 📅 2026-09-08 - Linked data platform from Epimorphics.
+* [Elda](https://github.com/epimorphics/elda) ⭐ 57 | 🐛 25 | 🌐 Java | 📅 2026-09-28 - Linked data platform from Epimorphics.
 * [LDP4j](https://github.com/ldp4j/ldp4j) ⭐ 46 | 🐛 5 | 🌐 Java | 📅 2020-12-01
 * [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
 * [CarbonLDP](https://github.com/CarbonLDP)
@@ -485,7 +485,7 @@ OS - OpenSource\
 
 ## Data Validation
 
-* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 355 | 🐛 46 | 🌐 Python | 📅 2026-07-28 - a Python validator for SHACL.
+* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 355 | 🐛 48 | 🌐 Python | 📅 2026-07-28 - a Python validator for SHACL.
 * [SHaclEX](https://github.com/weso/shaclex) ⭐ 92 | 🐛 259 | 🌐 Scala | 📅 2025-04-12 - Scala implementation of SHEX and SHACL. Possible to use a demo version from a web interface.
 * [RDFUnit](http://rdfunit.aksw.org/) - RDF testing suite. Include but not limited to SHACL.
 * [dotNetRDF SHACL](http://langsamu.net/shacl) - SHACL procecssor that can check conformance and validate data graphs against shapes graphs.
@@ -507,7 +507,7 @@ OS - OpenSource\
 
 #### Documentation
 
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 152 | 🌐 JavaScript | 📅 2026-09-28 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 150 | 🌐 JavaScript | 📅 2026-09-29 Ontology documentation (include LODE).
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
