@@ -4,7 +4,7 @@
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.
 
-The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-09-28 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-09-28 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-09-28 will be reported also here.
+The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 32 | 📅 2026-09-28 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 32 | 📅 2026-09-28 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 32 | 📅 2026-09-28 will be reported also here.
 
 The list is public and contributions are welcome.
 
@@ -417,7 +417,7 @@ OS - OpenSource\
 * [trellis](https://github.com/trellis-ldp/trellis) ⭐ 111 | 🐛 11 | 🌐 Java | 📅 2025-05-19
 * [warp](https://github.com/linkeddata/warp) ⭐ 59 | 🐛 18 | 🌐 CSS | 📅 2018-10-25 - Warp an LDP file manager.
 * [Marmotta](https://github.com/apache/marmotta) ⚠️ Archived - Apache linked data platform implementation.
-* [Elda](https://github.com/epimorphics/elda) ⭐ 57 | 🐛 25 | 🌐 Java | 📅 2026-09-28 - Linked data platform from Epimorphics.
+* [Elda](https://github.com/epimorphics/elda) ⭐ 57 | 🐛 22 | 🌐 Java | 📅 2026-10-02 - Linked data platform from Epimorphics.
 * [LDP4j](https://github.com/ldp4j/ldp4j) ⭐ 46 | 🐛 5 | 🌐 Java | 📅 2020-12-01
 * [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
 * [CarbonLDP](https://github.com/CarbonLDP)
@@ -507,7 +507,7 @@ OS - OpenSource\
 
 #### Documentation
 
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 151 | 🌐 JavaScript | 📅 2026-10-01 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 152 | 🌐 JavaScript | 📅 2026-10-01 Ontology documentation (include LODE).
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
