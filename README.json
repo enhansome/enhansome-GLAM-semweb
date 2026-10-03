@@ -1,40 +1,6 @@
 {
   "items": [
     {
-      "description": "Mapping tools for transforming your data (CSV, XML) into RDF",
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "X3ML",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "X3ML Engine supports the data transformation which is part of the data provisioning and aggregation process.",
-                "homepage": null,
-                "id": 24993403,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2025-05-26T07:53:56Z",
-                "open_issues": 25,
-                "owner": "isl",
-                "repo": "x3ml",
-                "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:27:05.604Z"
-            }
-          ],
-          "description": "X3ML is a transformation engine developed by FORTH. It is perfected to work with CIDOC-CRM, however it does work greatly with other ontologies as well. It is available as web application (3M) and a stand alone app (X3ML). In both cases the input file has to be in XML (for transforming a CSV file to XML see Mr Data Converter).\nIn order to transform the data it is necessary to create a X3ML declaration and a URI Mapping. Examples of both, together with the necessary commands are available at this addresses:",
-          "node_type": "group",
-          "title": "X3ML"
-        }
-      ],
-      "title": "Mapping tools"
-    },
-    {
       "description": null,
       "items": [
         {
@@ -190,7 +156,7 @@
             {
               "node_type": "item",
               "title": "trellis",
-              "description": null,
+              "description": "trellis-ldp/trellis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -287,7 +253,7 @@
             {
               "node_type": "item",
               "title": "LDP4j",
-              "description": null,
+              "description": "ldp4j/ldp4j",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -321,7 +287,7 @@
             {
               "node_type": "item",
               "title": "sparql/turtle extension",
-              "description": null,
+              "description": "peta/turtle.tmbundle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +315,7 @@
             {
               "node_type": "item",
               "title": "Turtle and SPARQL syntax highlighter",
-              "description": null,
+              "description": "abcoates/sublime-text-turtle-sparql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -370,7 +336,7 @@
             {
               "node_type": "item",
               "title": "SPARQL 1.1, Turtle, TriG, N-Triples, N-Quads and Notation3 syntax highlighter",
-              "description": null,
+              "description": "blake-regalia/linked-data.syntaxes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -398,7 +364,7 @@
             {
               "node_type": "item",
               "title": "semweb.vim",
-              "description": null,
+              "description": "seebi/semweb.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -440,7 +406,7 @@
             {
               "node_type": "item",
               "title": "vim-sparql",
-              "description": null,
+              "description": "Omer/vim-sparql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -468,7 +434,7 @@
             {
               "node_type": "item",
               "title": "sparql-mode",
-              "description": null,
+              "description": "ljos/sparql-mode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -904,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:54:15.918Z",
+    "last_updated": "2026-10-03T04:30:21.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",

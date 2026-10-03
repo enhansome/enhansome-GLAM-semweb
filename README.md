@@ -1,10 +1,10 @@
 # Awesome GLAM semweb with stars
 
-## awesome GLAM semweb [![Awesome](https://awesome.re/badge.svg)](https://github.com/ncarboni/Awesome-GLAM-semweb) ⭐ 118 | 🐛 2 | 📅 2023-01-26
+## awesome GLAM semweb [![Awesome](https://awesome.re/badge.svg)](https://github.com/ncarboni/Awesome-GLAM-semweb)
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.
 
-The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 32 | 📅 2026-09-28 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 32 | 📅 2026-09-28 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 32 | 📅 2026-09-28 will be reported also here.
+The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 will be reported also here.
 
 The list is public and contributions are welcome.
 
@@ -289,8 +289,8 @@ Mapping tools for transforming your data (CSV, XML) into RDF
 
 X3ML is a transformation engine developed by FORTH. It is perfected to work with CIDOC-CRM, however it does work greatly with other ontologies as well. It is available as web application (3M) and a stand alone app (X3ML). In both cases the input file has to be in XML (for transforming a CSV file to XML see [Mr Data Converter](https://shancarter.github.io/mr-data-converter/)).
 
-* [X3ML](https://github.com/isl/x3ml) ⭐ 24 | 🐛 25 | 🌐 Java | 📅 2025-05-26
 * [3M](http://139.91.183.3/3M/)
+* [X3ML](https://github.com/isl/x3ml) ⭐ 24 | 🐛 25 | 🌐 Java | 📅 2025-05-26
 
 In order to transform the data it is necessary to create a X3ML declaration and a URI Mapping. Examples of both, together with the necessary commands are available at this addresses:
 
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
