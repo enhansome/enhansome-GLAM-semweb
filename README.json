@@ -600,7 +600,7 @@
             "open_issues": 48,
             "owner": "RDFLib",
             "repo": "pySHACL",
-            "stars": 357,
+            "stars": 356,
             "topics": [
               "constraints",
               "owl",
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:30:21.126Z",
+    "last_updated": "2026-10-03T16:28:45.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
