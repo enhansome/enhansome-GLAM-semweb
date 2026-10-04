@@ -169,7 +169,7 @@
                 "open_issues": 11,
                 "owner": "trellis-ldp",
                 "repo": "trellis",
-                "stars": 111,
+                "stars": 110,
                 "topics": [
                   "ldp",
                   "linked-data",
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:28:45.633Z",
+    "last_updated": "2026-10-04T16:53:27.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",

@@ -4,7 +4,7 @@
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.
 
-The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 will be reported also here.
+The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 31 | 📅 2026-10-02 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 31 | 📅 2026-10-02 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 31 | 📅 2026-10-02 will be reported also here.
 
 The list is public and contributions are welcome.
 
@@ -414,7 +414,7 @@ OS - OpenSource\
 ### Linked Data Platform (LDP)
 
 * [gold](https://github.com/linkeddata/gold) ⭐ 152 | 🐛 33 | 🌐 Go | 📅 2020-07-21 - Linked Data server for Go.
-* [trellis](https://github.com/trellis-ldp/trellis) ⭐ 111 | 🐛 11 | 🌐 Java | 📅 2025-05-19
+* [trellis](https://github.com/trellis-ldp/trellis) ⭐ 110 | 🐛 11 | 🌐 Java | 📅 2025-05-19
 * [warp](https://github.com/linkeddata/warp) ⭐ 59 | 🐛 18 | 🌐 CSS | 📅 2018-10-25 - Warp an LDP file manager.
 * [Marmotta](https://github.com/apache/marmotta) ⚠️ Archived - Apache linked data platform implementation.
 * [Elda](https://github.com/epimorphics/elda) ⭐ 57 | 🐛 22 | 🌐 Java | 📅 2026-10-02 - Linked data platform from Epimorphics.
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
