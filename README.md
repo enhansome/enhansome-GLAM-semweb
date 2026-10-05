@@ -4,7 +4,7 @@
 
 A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.
 
-The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 31 | 📅 2026-10-02 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 31 | 📅 2026-10-02 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,701 | 🐛 31 | 📅 2026-10-02 will be reported also here.
+The list is an extension of [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 specifically targeted for GLAM (Galleries, Libraries, Archive, Museum). The [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 is the reference for general SM solutions, while this list is specifically target to domain resources which do not belong to the general list (e.g ontologies, specific software widely used within the community, documentation targeting DH practitioners and point of contacts/exchanges). For the purpose of providing to the reader a complete and stand-alone resource, few elements of the [the semantic web awesome list](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02 will be reported also here.
 
 The list is public and contributions are welcome.
 
@@ -350,7 +350,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 ## Vocabulary / KOS Management
 
-* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 123 | 🐛 56 | 🌐 Ruby | 📅 2026-09-29 SKOS(-XL) Vocabulary Management System for the Semantic Web.
+* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 123 | 🐛 56 | 🌐 Ruby | 📅 2026-10-05 SKOS(-XL) Vocabulary Management System for the Semantic Web.
 * [Ginco](https://github.com/culturecommunication/ginco) ⚠️ Archived Collaborative management and alignment of vocabularies.
 * [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 34 | 🐛 12 | 🌐 Java | 📅 2026-09-30 Multilingual collaborative management of KOS
 * [Skosmos](http://skosmos.org) Access SKOS vocabularies with SPARQL or API
@@ -507,7 +507,7 @@ OS - OpenSource\
 
 #### Documentation
 
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 152 | 🌐 JavaScript | 📅 2026-10-01 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 402 | 🐛 152 | 🌐 JavaScript | 📅 2026-10-01 Ontology documentation (include LODE).
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
@@ -532,7 +532,7 @@ OS - OpenSource\
 
 ### Visualisation
 
-* [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) ⭐ 146 | 🐛 15 | 🌐 Python | 📅 2022-09-20 Python tool for visualising RDF. Convert rdf to .dot and use Graphviz for constructing a visual representation.
+* [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) ⭐ 145 | 🐛 15 | 🌐 Python | 📅 2022-09-20 Python tool for visualising RDF. Convert rdf to .dot and use Graphviz for constructing a visual representation.
 
 ### Images
 
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
