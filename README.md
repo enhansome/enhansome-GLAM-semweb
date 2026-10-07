@@ -350,7 +350,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 ## Vocabulary / KOS Management
 
-* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 123 | 🐛 56 | 🌐 Ruby | 📅 2026-10-05 SKOS(-XL) Vocabulary Management System for the Semantic Web.
+* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 123 | 🐛 56 | 🌐 Ruby | 📅 2026-10-07 SKOS(-XL) Vocabulary Management System for the Semantic Web.
 * [Ginco](https://github.com/culturecommunication/ginco) ⚠️ Archived Collaborative management and alignment of vocabularies.
 * [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 34 | 🐛 12 | 🌐 Java | 📅 2026-09-30 Multilingual collaborative management of KOS
 * [Skosmos](http://skosmos.org) Access SKOS vocabularies with SPARQL or API
@@ -486,7 +486,7 @@ OS - OpenSource\
 ## Data Validation
 
 * [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 357 | 🐛 48 | 🌐 Python | 📅 2026-07-28 - a Python validator for SHACL.
-* [SHaclEX](https://github.com/weso/shaclex) ⭐ 92 | 🐛 259 | 🌐 Scala | 📅 2025-04-12 - Scala implementation of SHEX and SHACL. Possible to use a demo version from a web interface.
+* [SHaclEX](https://github.com/weso/shaclex) ⭐ 92 | 🐛 258 | 🌐 Scala | 📅 2025-04-12 - Scala implementation of SHEX and SHACL. Possible to use a demo version from a web interface.
 * [RDFUnit](http://rdfunit.aksw.org/) - RDF testing suite. Include but not limited to SHACL.
 * [dotNetRDF SHACL](http://langsamu.net/shacl) - SHACL procecssor that can check conformance and validate data graphs against shapes graphs.
 * [YASHE](http://www.weso.es/YASHE/) -  ShEx editor with examples
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

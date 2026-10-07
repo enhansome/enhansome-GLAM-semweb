@@ -15,7 +15,7 @@
             "id": 877602,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T16:20:08Z",
+            "last_commit": "2026-10-07T14:27:10Z",
             "open_issues": 56,
             "owner": "innoq",
             "repo": "iqvoc",
@@ -624,7 +624,7 @@
             "language": "Scala",
             "license": "MIT",
             "last_commit": "2025-04-12T06:44:06Z",
-            "open_issues": 259,
+            "open_issues": 258,
             "owner": "weso",
             "repo": "shaclex",
             "stars": 92,
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:27:40.247Z",
+    "last_updated": "2026-10-07T18:58:37.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
