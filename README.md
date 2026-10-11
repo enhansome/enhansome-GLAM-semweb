@@ -485,7 +485,7 @@ OS - OpenSource\
 
 ## Data Validation
 
-* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 357 | 🐛 50 | 🌐 Python | 📅 2026-07-28 - a Python validator for SHACL.
+* [pySHACL](https://github.com/RDFLib/pySHACL) ⭐ 358 | 🐛 50 | 🌐 Python | 📅 2026-07-28 - a Python validator for SHACL.
 * [SHaclEX](https://github.com/weso/shaclex) ⭐ 92 | 🐛 258 | 🌐 Scala | 📅 2025-04-12 - Scala implementation of SHEX and SHACL. Possible to use a demo version from a web interface.
 * [RDFUnit](http://rdfunit.aksw.org/) - RDF testing suite. Include but not limited to SHACL.
 * [dotNetRDF SHACL](http://langsamu.net/shacl) - SHACL procecssor that can check conformance and validate data graphs against shapes graphs.
@@ -507,7 +507,7 @@ OS - OpenSource\
 
 #### Documentation
 
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 402 | 🐛 153 | 🌐 JavaScript | 📅 2026-10-01 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 153 | 🌐 JavaScript | 📅 2026-10-01 Ontology documentation (include LODE).
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
