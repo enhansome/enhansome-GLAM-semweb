@@ -507,7 +507,7 @@ OS - OpenSource\
 
 #### Documentation
 
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 153 | 🌐 JavaScript | 📅 2026-10-01 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 144 | 🌐 JavaScript | 📅 2026-10-13 Ontology documentation (include LODE).
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

@@ -689,8 +689,8 @@
                     "id": 11427075,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T08:51:50Z",
-                    "open_issues": 153,
+                    "last_commit": "2026-10-13T12:26:20Z",
+                    "open_issues": 144,
                     "owner": "dgarijo",
                     "repo": "Widoco",
                     "stars": 401,
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:18:31.993Z",
+    "last_updated": "2026-10-13T19:20:41.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
