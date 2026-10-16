@@ -352,7 +352,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 * [iqvoc](https://github.com/innoq/iqvoc) ⭐ 124 | 🐛 56 | 🌐 Ruby | 📅 2026-10-07 SKOS(-XL) Vocabulary Management System for the Semantic Web.
 * [Ginco](https://github.com/culturecommunication/ginco) ⚠️ Archived Collaborative management and alignment of vocabularies.
-* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 34 | 🐛 14 | 🌐 Java | 📅 2026-10-12 Multilingual collaborative management of KOS
+* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 34 | 🐛 14 | 🌐 Java | 📅 2026-10-16 Multilingual collaborative management of KOS
 * [Skosmos](http://skosmos.org) Access SKOS vocabularies with SPARQL or API
 * [VocBench](http://vocbench.uniroma2.it) Web-based, multilingual, collaborative platform for managing OWL, SKOS(/XL) and generic RDF datasets.
 * [TemaTres](https://www.vocabularyserver.com) Manage, share, publish, and re-use SKOS vocabularies.
@@ -495,7 +495,7 @@ OS - OpenSource\
 ## IIIF
 
 * [International Image Interoperability Framework](https://iiif.io/)
-* [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif) ⭐ 562 | 🐛 11 | 📅 2026-10-12
+* [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif) ⭐ 562 | 🐛 12 | 📅 2026-10-12
 
 ## Misc
 
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
