@@ -19,7 +19,7 @@
             "open_issues": 56,
             "owner": "innoq",
             "repo": "iqvoc",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T22:27:05.604Z"
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:45:23.667Z",
+    "last_updated": "2026-10-17T15:42:04.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
