@@ -495,7 +495,7 @@ OS - OpenSource\
 ## IIIF
 
 * [International Image Interoperability Framework](https://iiif.io/)
-* [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif) ⭐ 562 | 🐛 12 | 📅 2026-10-12
+* [Awesome IIIF-related resources](https://github.com/IIIF/awesome-iiif) ⭐ 562 | 🐛 10 | 📅 2026-10-19
 
 ## Misc
 
@@ -507,7 +507,7 @@ OS - OpenSource\
 
 #### Documentation
 
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 144 | 🌐 JavaScript | 📅 2026-10-13 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 401 | 🐛 145 | 🌐 JavaScript | 📅 2026-10-19 Ontology documentation (include LODE).
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
