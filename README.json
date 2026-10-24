@@ -84,7 +84,7 @@
                 "open_issues": 18,
                 "owner": "cmader",
                 "repo": "qSKOS",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:05.604Z"
@@ -105,7 +105,7 @@
                 "open_issues": 16,
                 "owner": "NatLibFi",
                 "repo": "Skosify",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "code4lib",
                   "converter",
@@ -597,7 +597,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T14:04:37Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "RDFLib",
             "repo": "pySHACL",
             "stars": 365,
@@ -690,7 +690,7 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-23T13:13:49Z",
-                    "open_issues": 136,
+                    "open_issues": 137,
                     "owner": "dgarijo",
                     "repo": "Widoco",
                     "stars": 403,
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:15:31.101Z",
+    "last_updated": "2026-10-24T16:03:10.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
