@@ -352,7 +352,7 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 * [iqvoc](https://github.com/innoq/iqvoc) ⭐ 125 | 🐛 56 | 🌐 Ruby | 📅 2026-10-07 SKOS(-XL) Vocabulary Management System for the Semantic Web.
 * [Ginco](https://github.com/culturecommunication/ginco) ⚠️ Archived Collaborative management and alignment of vocabularies.
-* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 34 | 🐛 14 | 🌐 Java | 📅 2026-10-29 Multilingual collaborative management of KOS
+* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 34 | 🐛 14 | 🌐 Java | 📅 2026-10-31 Multilingual collaborative management of KOS
 * [Skosmos](http://skosmos.org) Access SKOS vocabularies with SPARQL or API
 * [VocBench](http://vocbench.uniroma2.it) Web-based, multilingual, collaborative platform for managing OWL, SKOS(/XL) and generic RDF datasets.
 * [TemaTres](https://www.vocabularyserver.com) Manage, share, publish, and re-use SKOS vocabularies.
@@ -413,7 +413,7 @@ OS - OpenSource\
 
 ### Linked Data Platform (LDP)
 
-* [gold](https://github.com/linkeddata/gold) ⭐ 152 | 🐛 33 | 🌐 Go | 📅 2020-07-21 - Linked Data server for Go.
+* [gold](https://github.com/linkeddata/gold) ⭐ 153 | 🐛 33 | 🌐 Go | 📅 2020-07-21 - Linked Data server for Go.
 * [trellis](https://github.com/trellis-ldp/trellis) ⭐ 110 | 🐛 11 | 🌐 Java | 📅 2025-05-19
 * [warp](https://github.com/linkeddata/warp) ⭐ 59 | 🐛 18 | 🌐 CSS | 📅 2018-10-25 - Warp an LDP file manager.
 * [Marmotta](https://github.com/apache/marmotta) ⚠️ Archived - Apache linked data platform implementation.
@@ -507,7 +507,7 @@ OS - OpenSource\
 
 #### Documentation
 
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 403 | 🐛 137 | 🌐 JavaScript | 📅 2026-10-23 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 404 | 🐛 137 | 🌐 JavaScript | 📅 2026-10-23 Ontology documentation (include LODE).
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
