@@ -57,7 +57,7 @@
             "id": 267047936,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T17:51:12Z",
+            "last_commit": "2026-11-08T22:24:37Z",
             "open_issues": 14,
             "owner": "MOM-CNRS",
             "repo": "Opentheso",
@@ -597,10 +597,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-28T22:07:57Z",
-            "open_issues": 51,
+            "open_issues": 53,
             "owner": "RDFLib",
             "repo": "pySHACL",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "constraints",
               "owl",
@@ -693,7 +693,7 @@
                     "open_issues": 138,
                     "owner": "dgarijo",
                     "repo": "Widoco",
-                    "stars": 407,
+                    "stars": 409,
                     "topics": [
                       "documentation",
                       "metadata",
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T17:57:50.595Z",
+    "last_updated": "2026-11-09T22:29:05.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
