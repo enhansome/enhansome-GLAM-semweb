@@ -57,7 +57,7 @@
             "id": 267047936,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T18:23:54Z",
+            "last_commit": "2026-11-12T08:59:19Z",
             "open_issues": 14,
             "owner": "MOM-CNRS",
             "repo": "Opentheso",
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:41:54.475Z",
+    "last_updated": "2026-11-12T20:04:17.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
