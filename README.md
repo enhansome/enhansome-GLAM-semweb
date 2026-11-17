@@ -352,14 +352,14 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 * [iqvoc](https://github.com/innoq/iqvoc) ⭐ 125 | 🐛 56 | 🌐 Ruby | 📅 2026-11-13 SKOS(-XL) Vocabulary Management System for the Semantic Web.
 * [Ginco](https://github.com/culturecommunication/ginco) ⚠️ Archived Collaborative management and alignment of vocabularies.
-* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 35 | 🐛 14 | 🌐 Java | 📅 2026-11-16 Multilingual collaborative management of KOS
+* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 35 | 🐛 14 | 🌐 Java | 📅 2026-11-17 Multilingual collaborative management of KOS
 * [Skosmos](http://skosmos.org) Access SKOS vocabularies with SPARQL or API
 * [VocBench](http://vocbench.uniroma2.it) Web-based, multilingual, collaborative platform for managing OWL, SKOS(/XL) and generic RDF datasets.
 * [TemaTres](https://www.vocabularyserver.com) Manage, share, publish, and re-use SKOS vocabularies.
 
 ### Vocabulary validation & conversion tools
 
-* [qSKOS](https://github.com/cmader/qSKOS) ⭐ 76 | 🐛 18 | 🌐 Java | 📅 2024-06-01 Find quality issues in SKOS vocabularies.
+* [qSKOS](https://github.com/cmader/qSKOS) ⭐ 77 | 🐛 17 | 🌐 Java | 📅 2024-06-01 Find quality issues in SKOS vocabularies.
 * [Skosify](https://github.com/NatLibFi/Skosify) ⭐ 68 | 🐛 16 | 🌐 Python | 📅 2021-08-31 Validate, convert and improve SKOS vocabularies
 * [SKOS Play](http://labs.sparna.fr/skos-play/) Render and visualise thesaurus, taxonomies or controlled vocabularies. Furthermore, convert Excel spreadsheets into SKOS files.
 
@@ -507,7 +507,7 @@ OS - OpenSource\
 
 #### Documentation
 
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 410 | 🐛 137 | 🌐 JavaScript | 📅 2026-11-16 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 409 | 🐛 137 | 🌐 JavaScript | 📅 2026-11-16 Ontology documentation (include LODE).
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
@@ -540,4 +540,4 @@ OS - OpenSource\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
