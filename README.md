@@ -350,9 +350,9 @@ In order to transform the data it is necessary to create a X3ML declaration and 
 
 ## Vocabulary / KOS Management
 
-* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 125 | 🐛 56 | 🌐 Ruby | 📅 2026-11-18 SKOS(-XL) Vocabulary Management System for the Semantic Web.
+* [iqvoc](https://github.com/innoq/iqvoc) ⭐ 125 | 🐛 56 | 🌐 Ruby | 📅 2026-11-24 SKOS(-XL) Vocabulary Management System for the Semantic Web.
 * [Ginco](https://github.com/culturecommunication/ginco) ⚠️ Archived Collaborative management and alignment of vocabularies.
-* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 35 | 🐛 15 | 🌐 Java | 📅 2026-11-23 Multilingual collaborative management of KOS
+* [Opentheso](https://github.com/miledrousset/opentheso) ⭐ 35 | 🐛 13 | 🌐 Java | 📅 2026-11-24 Multilingual collaborative management of KOS
 * [Skosmos](http://skosmos.org) Access SKOS vocabularies with SPARQL or API
 * [VocBench](http://vocbench.uniroma2.it) Web-based, multilingual, collaborative platform for managing OWL, SKOS(/XL) and generic RDF datasets.
 * [TemaTres](https://www.vocabularyserver.com) Manage, share, publish, and re-use SKOS vocabularies.
@@ -507,7 +507,7 @@ OS - OpenSource\
 
 #### Documentation
 
-* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 408 | 🐛 138 | 🌐 JavaScript | 📅 2026-11-16 Ontology documentation (include LODE).
+* [Widoco](https://github.com/dgarijo/Widoco) ⭐ 408 | 🐛 137 | 🌐 JavaScript | 📅 2026-11-24 Ontology documentation (include LODE).
 * [LODE](http://www.essepuntato.it/lode) ontology documentation environment.
 
 #### Management
