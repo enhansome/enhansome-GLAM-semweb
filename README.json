@@ -57,8 +57,8 @@
             "id": 267047936,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T12:48:14Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-26T07:50:50Z",
+            "open_issues": 13,
             "owner": "MOM-CNRS",
             "repo": "Opentheso",
             "stars": 35,
@@ -690,7 +690,7 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-24T13:20:34Z",
-                    "open_issues": 137,
+                    "open_issues": 138,
                     "owner": "dgarijo",
                     "repo": "Widoco",
                     "stars": 408,
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T21:48:32.472Z",
+    "last_updated": "2026-11-26T21:41:39.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.",
